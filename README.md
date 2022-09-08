@@ -45,6 +45,8 @@
 
 
 
-2022.09.08 : [BOAZ 스파크 발제 ][TILlink]
+###Footprint###
+  
+2022.09.08 : [BOAZ Spark RDD 발제 준비][TILlink]
 
 [TILlink]: https://github.com/jeewonkimm2/TIL/blob/main/220908_Spark_RDD_Presentation.ipynb
