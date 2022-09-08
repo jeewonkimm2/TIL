@@ -42,3 +42,9 @@
 12. ```git checkout develop```
 - 브랜치 전환
 - ex) 현재 feature 브랜치에서 작업을 하다가 develop 브랜치로 전환을 하려면 위와 같은 명령어를 실행하면 
+
+
+
+2022.09.08 : [BOAZ 스파크 발제 ][TILlink]
+
+[TILlink]: https://github.com/jeewonkimm2/TIL/blob/main/220908_Spark_RDD_Presentation.ipynb
