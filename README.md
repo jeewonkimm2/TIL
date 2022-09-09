@@ -59,6 +59,6 @@
 
 [TILlink]: https://github.com/jeewonkimm2/TIL/blob/main/220908_Spark_RDD_Presentation.ipynb
 
-2022.09.09 : [AIFFEL 1강][TILlink]
+2022.09.09 : [AIFFEL 1강][TILlink1]
 
-[TILlink]: https://github.com/jeewonkimm2/TIL/blob/main/1_딥러닝한테_손글씨_숫자_가르쳐주기_(1)_모델_설계.ipynb
+[TILlink1]: https://github.com/jeewonkimm2/TIL/blob/main/1_딥러닝한테_손글씨_숫자_가르쳐주기_(1)_모델_설계.ipynb
