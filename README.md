@@ -61,4 +61,4 @@
 
 2022.09.09 : [AIFFEL 1강][TILlink]
 
-[TILlink]: https://github.com/jeewonkimm2/TIL/blob/main/1_%EB%94%A5%EB%9F%AC%EB%8B%9D%ED%95%9C%ED%85%8C_%EC%86%90%EA%B8%80%EC%94%A8_%EC%88%AB%EC%9E%90_%EA%B0%80%EB%A5%B4%EC%B3%90%EC%A3%BC%EA%B8%B0_(1)_%EB%AA%A8%EB%8D%B8_%EC%84%A4%EA%B3%84.ipynb
+[TILlink]: https://github.com/jeewonkimm2/TIL/blob/main/1_딥러닝한테_손글씨_숫자_가르쳐주기_(1)_모델_설계.ipynb
