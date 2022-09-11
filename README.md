@@ -36,7 +36,7 @@
 - git pull은 원격 저장소에서 업데이트된 내용이 있는지 확인하고 내 로컬 소스에 반영하는 기능
 
 11. ```git merge <commit>```
-- 브랜치 병함 -> 현재 작업중인 브랜치에 합칠 commit을 지정해서 병합
+- 브랜치 병 -> 현재 작업중인 브랜치에 합칠 commit을 지정해서 병합
 - <commit> 위치에는 주로 병합할 브랜치 이름을 넣고, commit checksum을 넣어도 됨
   
 12. ```git checkout develop```
