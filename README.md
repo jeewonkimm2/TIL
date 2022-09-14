@@ -55,7 +55,7 @@
   
 ### Footprint ###
   
-2022.09.08 : [BOAZ Spark RDD 발제 준비][TILlink]
+2022.09.08 : [BOAZ Spark RDD 발제 준비_1차][TILlink]
 
 [TILlink]: https://github.com/jeewonkimm2/TIL/blob/main/BOAZ/Spark_RDD_Presentation.ipynb
 
@@ -79,3 +79,5 @@
 
 [TILlink5]: https://github.com/jeewonkimm2/TIL/blob/main/AIFFEL/5_%EA%B1%B0%EC%9A%B8%EC%95%84_%EA%B1%B0%EC%9A%B8%EC%95%84%2C_%EB%82%98%EB%8A%94_%EB%A9%8D%EB%A9%8D%EC%9D%B4_%EC%83%81%EC%9D%B4%EB%8B%88%2C_%EB%83%A5%EC%9D%B4_%EC%83%81%EC%9D%B4%EB%8B%88%3F_(2)_%EC%A0%84%EC%9D%B4_%ED%95%99%EC%8A%B5_%EB%AA%A8%EB%8D%B8_%EA%B5%AC%EC%B6%95.ipynb
 [TILlink6]:https://github.com/jeewonkimm2/TIL/blob/main/SeoulTech/Business_Analytics/introduction_to_ml_with_python_01_introduction.ipynb
+
+2022.09.14 : [BOAZ Spark RDD 발제 준비_2차][TILlink]
