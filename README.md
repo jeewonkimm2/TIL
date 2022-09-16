@@ -90,6 +90,6 @@
 [TILlink8]:https://github.com/jeewonkimm2/TIL/blob/main/SeoulTech/Business_Analytics/self-learning/DataAnalysisBasic.ipynb
 
 
-2022.09.16 : [BOAZ Spark RDD,SQL 발제 준비_3차][TILlink],[TILlink9]
+2022.09.16 : [BOAZ Spark RDD 발제 준비_3차][TILlink],[BOAZ Spark SQL 발제 준비_3차_파일분리][TILlink9]
 
 [TILlink9]: https://github.com/jeewonkimm2/TIL/blob/main/BOAZ/Spark_SQL_Presentation.ipynb
