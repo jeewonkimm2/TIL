@@ -88,3 +88,8 @@
 2022.09.15 : [DataAnalysisBasic][TILlink8]
 
 [TILlink8]:https://github.com/jeewonkimm2/TIL/blob/main/SeoulTech/Business_Analytics/self-learning/DataAnalysisBasic.ipynb
+
+
+2022.09.16 : [BOAZ Spark RDD,SQL 발제 준비_3차][TILlink],[TILlink9]
+
+[TILlink9]: https://github.com/jeewonkimm2/TIL/blob/main/BOAZ/Spark_SQL_Presentation.ipynb
