@@ -93,3 +93,8 @@
 2022.09.16 : [BOAZ Spark RDD 발제 준비_3차][TILlink],[BOAZ Spark SQL 발제 준비_3차_파일분리][TILlink9]
 
 [TILlink9]: https://github.com/jeewonkimm2/TIL/blob/main/BOAZ/Spark_SQL_presentation.ipynb
+
+
+2022.09.17 : [BOAZ Spark SQL 발제 준비_4차][TILlink9]
+
+[TILlink9]: https://github.com/jeewonkimm2/TIL/blob/main/BOAZ/Spark_SQL_presentation.ipynb
