@@ -99,6 +99,6 @@
 
 [TILlink9]: https://github.com/jeewonkimm2/TIL/blob/main/BOAZ/Spark_SQL_presentation.ipynb
 
-2022.09.18 : [introduction_to_ml_with_python_02-supervised-learning_1][TILlink10]
+2022.09.18 : [introduction_to_ml_with_python_02-supervised-learning_1차시][TILlink10]
 
 [TILlink10]:https://github.com/jeewonkimm2/TIL/blob/main/SeoulTech/Business_Analytics/introduction_to_ml_with_python_02_supervised_learning.ipynb
