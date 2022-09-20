@@ -104,3 +104,6 @@
 [TILlink10]:https://github.com/jeewonkimm2/TIL/blob/main/SeoulTech/Business_Analytics/introduction_to_ml_with_python_02_supervised_learning.ipynb
 
 2022.09.19 : [introduction_to_ml_with_python_02-supervised-learning_2차시][TILlink10]
+
+2022.09.20 : [introduction_to_ml_with_python_02-supervised-learning_3차시][TILlink10]
+
