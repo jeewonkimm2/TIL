@@ -39,9 +39,11 @@
 - 브랜치 병 -> 현재 작업중인 브랜치에 합칠 commit을 지정해서 병합
 - <commit> 위치에는 주로 병합할 브랜치 이름을 넣고, commit checksum을 넣어도 됨
   
-12. ```git checkout develop```
-- 브랜치 전환
-- ex) 현재 feature 브랜치에서 작업을 하다가 develop 브랜치로 전환을 하려면 위와 같은 명령어를 실행하면 
+12. ```git checkout -b JWK```
+- JWK이라는 브랜치 생성
+- ex) 현재 feature 브랜치에서 작업을 하다가 JWK 브랜치로 전환을 하려면 위와 같은 명령어를 실행하면
+- ```git checkout main``` : main으로 가서 동기화 해야됨
+- Pull requests 해야함
 
 
   
