@@ -109,3 +109,6 @@
 
 2022.09.20 : [introduction_to_ml_with_python_02-supervised-learning_3차시][TILlink10]
 
+2022.09.21 : [BOAZ Spark RDD 최종 마무리][TILlink],[BOAZ Spark SQL 최종 마무리][TILlink9]
+
+
