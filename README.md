@@ -45,6 +45,9 @@
 - ```git checkout main``` : main으로 가서 동기화 해야됨
 - Pull requests 해야함
 
+13. ```git clean -fd```
+- git이 추적하지 않는 untracked files 한꺼번에 삭제
+
 
   
   
