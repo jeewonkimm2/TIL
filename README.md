@@ -126,7 +126,8 @@
 
 2022.09.27 : [SeoulTech_Business_Analytics_실습 1주차 수정 전][TILlink11], [SeoulTech_Business_Analytics_실습 1주차-1][TILlink12], [SeoulTech_Business_Analytics_실습 1주차-2][TILlink13]
 
-[TILlink11] : https://github.com/jeewonkimm2/TIL/tree/main/SeoulTech/Business_Analytics/In_Class
-[TILlink12] : https://github.com/jeewonkimm2/TIL/blob/main/SeoulTech/Business_Analytics/In_Class/03_dt_lr_p_s-stu.ipynb
+[TILlink11]: https://github.com/jeewonkimm2/TIL/blob/main/SeoulTech/Business_Analytics/In_Class/03_dt_lr_p-stu.ipynb
+  
+[TILlink12]: https://github.com/jeewonkimm2/TIL/blob/main/SeoulTech/Business_Analytics/In_Class/03_dt_lr_p_s-stu.ipynb
 
-[TILlink13] : https://github.com/jeewonkimm2/TIL/blob/main/SeoulTech/Business_Analytics/In_Class/04_regularization-stu.ipynb
+[TILlink13]: https://github.com/jeewonkimm2/TIL/blob/main/SeoulTech/Business_Analytics/In_Class/04_regularization-stu.ipynb
