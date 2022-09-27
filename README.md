@@ -120,7 +120,14 @@
 
 2022.09.24 : [introduction_to_ml_with_python_02-supervised-learning_5차시][TILlink10]
 
-2022.09.25 : [BOAZ Spark RDD 찐최종][TILlink],[BOAZ Spark SQL 찐최종][TILlink9]
+2022.09.25 : [BOAZ Spark RDD 최종][TILlink],[BOAZ Spark SQL 최종][TILlink9]
 
+2022.09.26 : [BOAZ Spark RDD 찐최종][TILlink],[BOAZ Spark SQL 찐최종][TILlink9]
 
+2022.09.27 : [SeoulTech_Business_Analytics_실습 1주차 수정 전][TILlink11], [SeoulTech_Business_Analytics_실습 1주차-1][TILlink12], [SeoulTech_Business_Analytics_실습 1주차-2][TILlink13]
 
+[TILlink11] : https://github.com/jeewonkimm2/TIL/blob/main/SeoulTech/Business_Analytics/In_Class/03_dt_lr_p-stu.ipynb
+
+[TILlink12] : https://github.com/jeewonkimm2/TIL/blob/main/SeoulTech/Business_Analytics/In_Class/03_dt_lr_p_s-stu.ipynb
+
+[TILlink13] : https://github.com/jeewonkimm2/TIL/blob/main/SeoulTech/Business_Analytics/In_Class/04_regularization-stu.ipynb
