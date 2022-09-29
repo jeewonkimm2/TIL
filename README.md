@@ -131,3 +131,8 @@
 [TILlink12]: https://github.com/jeewonkimm2/TIL/blob/main/SeoulTech/Business_Analytics/In_Class/03_dt_lr_p_s-stu.ipynb
 
 [TILlink13]: https://github.com/jeewonkimm2/TIL/blob/main/SeoulTech/Business_Analytics/In_Class/04_regularization-stu.ipynb
+
+2022.09.28 : [BOAZ Spark RDD 업로드][TILlink],[BOAZ Spark SQL 업로드][TILlink9]
+
+2022.09.29 : [introduction_to_ml_with_python_02-supervised-learning_마무리][TILlink10]
+
