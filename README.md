@@ -136,3 +136,8 @@
 
 2022.09.29 : [introduction_to_ml_with_python_02-supervised-learning_마무리][TILlink10]
 
+2022.09.30 : [introduction_to_ml_with_python_02-supervised-learning][TILlink11]
+[TILlink11] : https://github.com/jeewonkimm2/TIL/blob/main/SeoulTech/Business_Analytics/introduction_to_ml_with_python_03_unsupervised_learning.ipynb
+
+2022.10.01 : [introduction_to_ml_with_python_04_representing_data_feature_engineering][TILlink12]
+[TILlink12] : https://github.com/jeewonkimm2/TIL/blob/main/SeoulTech/Business_Analytics/introduction_to_ml_with_python_04_representing_data_feature_engineering.ipynb
