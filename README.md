@@ -149,5 +149,5 @@
 2022.10.03 : [introduction_to_ml_with_python_04_representing_data_feature_engineering][TILlink15]
 
 2022.10.04 : [SeoulTech_Business_Analytics_feature_engineering][TILlink16]
-TILlink15: https://github.com/jeewonkimm2/TIL/blob/main/SeoulTech/Business_Analytics/In_Class/05_feature_engineering_p-stu.ipynb
+TILlink16: https://github.com/jeewonkimm2/TIL/blob/main/SeoulTech/Business_Analytics/In_Class/05_feature_engineering_p-stu.ipynb
 
