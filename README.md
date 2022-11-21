@@ -151,5 +151,3 @@
 2022.10.04 : [SeoulTech_Business_Analytics_feature_engineering][TILlink16]
   
 [TILlink16]: https://github.com/jeewonkimm2/TIL/blob/main/SeoulTech/Business_Analytics/In_Class/05_feature_engineering_p-stu.ipynb
-
-2022.10.14 : 과제하다가 새하얗게 잊어버린.. 이로써 1Day 1Commit renew! 시험기간...
