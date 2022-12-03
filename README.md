@@ -1,6 +1,5 @@
 # TIL : Today I learned
 
-1Day 1Commit 을 위한 용어 정리
 
 1. Local Repository 로컬 저장소
 - 내 PC의 저장소 (해당 디렉토리로 가서 커멘트창에 ```git init```)
